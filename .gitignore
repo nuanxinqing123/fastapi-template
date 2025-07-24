@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+backend/.env
+.venv/
+venv/
+backend/alembic/versions/
+*.log
+.ruff_cache/
+temp/*
+backend/temp/*
+.DS_Store
+celerybeat-schedule.db
+backend/log/*
+.windsurf
+.cursor
